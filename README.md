@@ -36,5 +36,3 @@ The main objectives of this project are to:
 - Assign a consistent IP address to the Kali VM.
 - Verify network connectivity and DNS resolution.
 - Take a clean VM snapshot for recovery.
-- Document the complete setup process.
-- Prepare the environment for future cybersecurity projects.
